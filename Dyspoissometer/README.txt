@@ -9,3 +9,5 @@ These are TARGA images which can be manipulated by KolourPaint for Linux and oth
 4. Offset 0xC of the header contains the 16-bit pixel width in little endian.
 
 5. Offset 0xE of the header contains the 16-bit pixel height in little endian.
+
+Note that sample.7z was compressed with 7Zip. It will uncompress to sample.tga .
